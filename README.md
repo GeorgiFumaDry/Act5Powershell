@@ -12,15 +12,25 @@ PS C:\> function prompt {"alopez> "} alopez >
 
 2. Situado en A111 crea los directorios B1, B2, B3, B31 con una única sentencia y usando trayectoria absoluta.
 
-3. Situado en el directorio A111 crea el fichero texto.txt utilizando trayectoria relativa. Dicho fichero deberá contener el texto: “La fecha de hoy es:”
+![image](https://github.com/user-attachments/assets/3833c66f-a3bf-4b04-863b-777b7ecf6fb5)
 
-4. Situado en el directorio A111, crea en el directorio B31 el fichero fecha.txt utilizando trayectoria relativa. Dicho fichero deberá contener la fecha de hoy. (Utiliza el comando específico para mostrar la fecha actual)
+![image](https://github.com/user-attachments/assets/ad9e6b2a-4db8-4736-bec8-812560440955)
 
-5. Situado en el directorio A111, crea en B1 un archivo llamado fechahoy.txt que contenga el contenido del archivo texto.txt y del archivo fecha.txt
+4. Situado en el directorio A111 crea el fichero texto.txt utilizando trayectoria relativa. Dicho fichero deberá contener el texto: “La fecha de hoy es:”
 
-6. Muévete desde A111 a B1 con una única sentencia. Crea una copia del archivo fechahoy.txt en el directorio A3, esta copia del archivo se tiene que llamar fechahoy.doc
+![image](https://github.com/user-attachments/assets/3fe0d7a8-1f95-4a4e-8b03-b1b98f64c825)
 
-7. Situado en B1, crea en SOM un archivo llamado arbol.txt que contenga el árbol de directorios y archivos dependientes de SOM.
+![image](https://github.com/user-attachments/assets/a1779cdc-f164-41ec-aaa3-d2a2285ac743)
+
+6. Situado en el directorio A111, crea en el directorio B31 el fichero fecha.txt utilizando trayectoria relativa. Dicho fichero deberá contener la fecha de hoy. (Utiliza el comando específico para mostrar la fecha actual)
+
+
+
+7. Situado en el directorio A111, crea en B1 un archivo llamado fechahoy.txt que contenga el contenido del archivo texto.txt y del archivo fecha.txt
+
+8. Muévete desde A111 a B1 con una única sentencia. Crea una copia del archivo fechahoy.txt en el directorio A3, esta copia del archivo se tiene que llamar fechahoy.doc
+
+9. Situado en B1, crea en SOM un archivo llamado arbol.txt que contenga el árbol de directorios y archivos dependientes de SOM.
 
 
 En este punto del ejercicio deberías tener un árbol de directorios similar al expuesto al comienzo del ejercicio
