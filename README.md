@@ -12,9 +12,9 @@ PS C:\> function prompt {"alopez> "} alopez >
 
 2. Situado en A111 crea los directorios B1, B2, B3, B31 con una única sentencia y usando trayectoria absoluta.
 
-![image](https://github.com/user-attachments/assets/3833c66f-a3bf-4b04-863b-777b7ecf6fb5)
+![image](https://github.com/user-attachments/assets/b70f2786-2975-4f43-879a-b01f1d4c9dd7)
 
-![image](https://github.com/user-attachments/assets/ad9e6b2a-4db8-4736-bec8-812560440955)
+![image](https://github.com/user-attachments/assets/6a162234-c0bc-4e23-aee6-5f247e4fe691)
 
 4. Situado en el directorio A111 crea el fichero texto.txt utilizando trayectoria relativa. Dicho fichero deberá contener el texto: “La fecha de hoy es:”
 
