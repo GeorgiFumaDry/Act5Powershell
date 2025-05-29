@@ -2,7 +2,13 @@
 
 PS C:\> function prompt {"alopez> "} alopez >
 
+![image](https://github.com/user-attachments/assets/31c4d9c3-8640-4eec-b597-b3ccbe158259)
+
 1. Situado en C:\, crea el directorio SOM y te sitúas en él. Crea los directorios (A1, A2, A3, A11, A111, A112) con una única sentencia y trayectoria relativa.
+
+![image](https://github.com/user-attachments/assets/ed0a08cb-3a6f-42d1-a802-026b8835b43f)
+
+![image](https://github.com/user-attachments/assets/02a8f16c-1028-4e01-8818-f75f5234e2b2)
 
 2. Situado en A111 crea los directorios B1, B2, B3, B31 con una única sentencia y usando trayectoria absoluta.
 
